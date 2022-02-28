@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honorable, the knights, citizens, and burgesses of the Commons House in Parliament assembled, the humble petition of the Lord Major, Aldermen, and Commons of the city of London, in Common-Councel assembled: delivered the 16th. of this instant May, into the honorable House of Commons. Together with the answer of the said House to the said petition. Ordered by the Commons in Parliament, that this petition, and answer, be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94621</idno>
+            <idno type="STC">Wing T1643</idno>
+            <idno type="STC">Thomason E49_20</idno>
+            <idno type="STC">ESTC R1894</idno>
+            <idno type="EEBO-CITATION">99860506</idno>
+            <idno type="PROQUEST">99860506</idno>
+            <idno type="VID">155127</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94621)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155127)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E49[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honorable, the knights, citizens, and burgesses of the Commons House in Parliament assembled, the humble petition of the Lord Major, Aldermen, and Commons of the city of London, in Common-Councel assembled: delivered the 16th. of this instant May, into the honorable House of Commons. Together with the answer of the said House to the said petition. Ordered by the Commons in Parliament, that this petition, and answer, be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>May 24. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>The answer of the House of Commons is dated May 18, 1644.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155127:1" rendition="simple:additions"/>
+            <p>To the Right Honorable, <hi>The Knights, Citizens, and Burgeſſes</hi> of the Commons Houſe in Par<g ref="char:EOLhyphen"/>liament aſſembled, <hi>THE H<g ref="char:V">Ʋ</g>MBLE</hi> PETITION OF THE Lord Major, Aldermen, and Com<g ref="char:EOLhyphen"/>mons of the City of LONDON, in Common-Councel aſſembled: Delivered the 16<hi rend="sup">th</hi>. of this inſtant MAY, into the Honorable Houſe of COMMONS.</p>
+            <p>Together with the ANSWER of the ſaid Houſe to the ſaid PETITION.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>ORdered by the Commons in Parliament, That this Pe<g ref="char:EOLhyphen"/>tition, and Anſwer, be forthwith printed and publiſhed:</p>
+                  <closer>
+                     <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Printed for <hi>Edward Husbands, May</hi> 24. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:155127:2"/>
+            <pb n="3" facs="tcp:155127:2"/>
+            <head>To the Right Honorable, the Knights, Citizens and Burgeſſes of the COMMONS-Houſe in PARLIAMENT Aſſembled; The Humble PETITION of the Lord MAjOR, Aldermen, and Commons of the City of LONDON in Common-Councell Aſſembled.</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>HAT the continued Indu<g ref="char:EOLhyphen"/>ſtry, Courage and Conſtan<g ref="char:EOLhyphen"/>cy which this Honourable Houſe have manifeſted in all Affaires concerning the Publique; The Faithfull Endeavours of the LORDS and COMMONS of the Committee of both King<g ref="char:EOLhyphen"/>doms, the ſpeciall Care ta<g ref="char:EOLhyphen"/>ken in putting the Tower of <hi>London,</hi> and Caſtle of <hi>Windſor</hi> into ſafe Hands, and Your favourable Re<g ref="char:EOLhyphen"/>ſolutions not to diſpoſe of them otherwiſe then as may ſtand with the Security and Satisfaction of this City, Have laid a great Obligation of Thankful<g ref="char:EOLhyphen"/>neſſe upon the Inhabitants thereof and their Poſterity, and Encourage the Petitioners, Humbly to Repreſent their Apprehenſions and Feares ariſing from the Diſ<g ref="char:EOLhyphen"/>continuance of that Honourable Committee, Eſpeci<g ref="char:EOLhyphen"/>ally at this time, when our Enemies are ſo Active, and all our Armies in Mot<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on; From the want of Execu<g ref="char:EOLhyphen"/>tion of Juſtice upon Delinquents, the not putting of <hi>Tilbury</hi> Fort in ſafe hands, and from the Endeavours of divers Members o Parliament to be Re-admitted into that great Councell, who have contrary to the
+<pb n="4" facs="tcp:155127:3"/> Truſt in them repoſed Deſerted the ſame, kept Cor<g ref="char:EOLhyphen"/>reſpondency with the Enemy, joyned in other Coun<g ref="char:EOLhyphen"/>cell, and taken up Arms againſt the Parliament.</p>
+            <p>For Removall of which Apprehenſions and Feares, and prevention of the ſad Conſequences thereof, Your Petitioners make it their earneſt and Humble ſuite to this Honourable Houſe;</p>
+            <p>That the Committee of both Kingdoms may be ſo ſp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edily Re-eſtabliſhed, as the preſent Exigents of Affaires require.</p>
+            <p>That the Tower of <hi>London,</hi> and Caſtle of <hi>Wind<g ref="char:EOLhyphen"/>ſor</hi> may be continued in ſafe hands, and the Gar<g ref="char:EOLhyphen"/>riſon at <hi>Windſor</hi> timely and conſtantly ſupplyed with Money and other Neceſſaries; And the Fort of <hi>Tilbury</hi> well mann'd, and put into the hands of Perſons of Truſt, and that have Abillity to Diſ<g ref="char:EOLhyphen"/>charge the ſame.</p>
+            <p>That a Courſe may be forthwith taken for the Triall and Puniſhment of Delinquents.</p>
+            <p>That none of the ſaid Members of Parliament may be Re-admitted without ſpeciall Aſſurance and Satisfaction firſt given to both Houſes of Par<g ref="char:EOLhyphen"/>liament for their Fidelity to come.</p>
+            <p>That this Honourable Houſe will Perſevere in Your Endeavours and Reſolutions tending to the Publique good, notwithſtanding all Diſcourage<g ref="char:EOLhyphen"/>ments.</p>
+            <p>And to reſt Aſſured, that the Petitioners for the Promoting thereof, will cheerfully Obey Your Orders and Directions from time to time, and Ad<g ref="char:EOLhyphen"/>here unto You, to the utmoſt expence of their Lives and Eſtates, according to their late Solemn Covenant.</p>
+            <closer>
+               <signed>Michel.</signed>
+            </closer>
+         </div>
+         <div type="answer_to_petition">
+            <pb n="5" facs="tcp:155127:3"/>
+            <opener>
+               <dateline>
+                  <date>18. May. 1644.</date>
+               </dateline>
+            </opener>
+            <p>THe Houſe of Commons, having re<g ref="char:EOLhyphen"/>ceived the Petition of the Lord Mayor, Aldermen, and Commons of the City of London, in Common Coun<g ref="char:EOLhyphen"/>cell aſſembled, delivered unto them up<g ref="char:EOLhyphen"/>on <hi>Thurſday,</hi> the <hi>16.</hi> of this inſtant <hi>May,</hi> by the Sheriffes, Aldermen, and diverſe others, appointed a Committee from the ſaid Common Councell; Af<g ref="char:EOLhyphen"/>ter ſerious conſideration of the Contents, Do return this Anſwer:</p>
+            <pb n="6" facs="tcp:155127:4"/>
+            <p>
+               <seg rend="decorInit">T</seg>Hey do acknowledge it, an eſpeci<g ref="char:EOLhyphen"/>all bleſsing of Almighty God, that their endeavours, (wherein they have done but their duty) have beene ſo well underſtood and accepted, by this famous City; without whoſe conſtant affections and aſsiſtance they could not have brought this great Work to that hopefull condition, wherein (by the mercy of God) it now ſtands.</p>
+            <p>To the particulars deſired, they have eſtee<g ref="char:EOLhyphen"/>med them ſo neceſſary for the publique good, that the ſetling of them hath already been reſolved upon, in this Houſe.</p>
+            <p>For the continuance of the Committee of both Kingdomes, an Ordinance is depen<g ref="char:EOLhyphen"/>ding for that purpoſe; the ſpeedy perfecting whereof, they will endeavour.</p>
+            <p>For the Tower of <hi>London,</hi> Caſtle of <hi>Wind<g ref="char:EOLhyphen"/>ſor,</hi> and Fort at <hi>Tilbury;</hi> They will take ſuch further courſe as ſhall be for the ſecurity and ſatisfaction of the City.</p>
+            <p>For the Tryall and puniſhment of Delin<g ref="char:EOLhyphen"/>quents,
+<pb n="7" facs="tcp:155127:4"/> the Houſe hath already reſolved up<g ref="char:EOLhyphen"/>on an Ordinance, for the ſetling of a conſtant Councell of War, within the Lines of Com<g ref="char:EOLhyphen"/>munication.</p>
+            <p>For the not re-admitting of ſuch Members of Parliament, who contrary to the truſt re<g ref="char:EOLhyphen"/>poſed in them, have deſerted the ſame, and adheared to the Enemy, this Houſe hath paſ<g ref="char:EOLhyphen"/>ſed an Ordinance as is deſired, and will en<g ref="char:EOLhyphen"/>deavour the ſpeedy perfecting thereof.</p>
+            <p>For the Expreſsions of adhearing to the Houſe of Commons in the indeavours of promoting the publique good, they have beene demonſtrated by action in times of greateſt difficulty; wherein the City hath ſpent their deareſt blood, and vaſt ſummes of Treaſure, omitting no poſsible ſupplies of perſons and Purſe.</p>
+            <p>In their moſt ſeaſonable deſires, offer, and promiſe they now make, (never to be for<g ref="char:EOLhyphen"/>gotten by the Houſe of Commons) they manifeſt, their affections can admit of no decreaſe; which are great incouragements to this Houſe, to perſevere in the endeavours,
+<pb n="8" facs="tcp:155127:5"/> and reſolutions deſired, wherein (by the bleſ<g ref="char:EOLhyphen"/>ſing of Almighty God) they will perſiſt, to the utmoſt hazard of their lives and for<g ref="char:EOLhyphen"/>tunes, againſt the greateſt diſcouragements; untill the affaires of the Church and Com<g ref="char:EOLhyphen"/>mon-wealth, receive ſuch a happy concluſion as all good men deſire, and pray for.</p>
+            <p>And in returne for their great affection, the Houſe of Commons doth declare, They will in a moſt peculiar manner be mindfull of the merit of this City, which upon all occaſions they ſhall acknowledge, and will endeavour to requite; And in the meane time, they give them moſt hearty Thanks.</p>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
